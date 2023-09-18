@@ -1,0 +1,33 @@
+$ indicates that you're using bash
+increase text: contol +
+
+What directory am I im? pwd
+What's in this directory? ls
+Move/change directory? cd [intended location] 
+--> Go back? cd..
+
+mkdir
+touch --> makes?? something?
+idk what those do :(
+
+git --version tells you the version
+
+Open directory from a specific location: right click on icon, 'Open Git Bash here'
+
+TOKEN
+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
+
+PUSH TO GIT:
+save your work
+$ git add [file name]
+$ git commit -m "[record a message for future you]"
+[at this point, it is saved on your local machine]
+$ git push
+[this pushes the change to github]
+
+$ git status
+--> this will tell you if there are unsynced items
+
+touch [document.txt] will create that file
+
+ON GITHUB: press "." anywhere, and it will open visual studio? I think? basically browser coding ig
